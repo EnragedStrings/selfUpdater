@@ -1,5 +1,3 @@
---TESTING
---THESE COMMENTS SHOULD SHOW IN GAME
 local fs = require("filesystem")
 local serial = require("serialization")
 local shell = require("shell")
